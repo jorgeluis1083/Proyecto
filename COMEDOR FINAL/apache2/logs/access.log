@@ -1,0 +1,10 @@
+::1 - - [31/May/2018:21:12:54 -0500] "GET / HTTP/1.1" 200 86480
+::1 - - [31/May/2018:21:12:55 -0500] "GET /index.php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 200 2524
+::1 - - [31/May/2018:21:12:55 -0500] "GET /index.php?=PHPE9568F35-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 200 2146
+::1 - - [31/May/2018:21:12:58 -0500] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [31/May/2018:21:12:54 -0500] "GET /phpmyadmin/ HTTP/1.1" 200 7997
+::1 - - [31/May/2018:21:12:58 -0500] "GET /phpmyadmin/phpmyadmin.css.php?server=1&token=f4915e8108ff9e2ca0dd9c8e39ed822d&nocache=4125195912ltr HTTP/1.1" 200 88608
+::1 - - [31/May/2018:21:12:58 -0500] "GET /phpmyadmin/js/messages.php?lang=es&db=&server=0&token=0e7def5a4cf34f093cef704297710333 HTTP/1.1" 200 18333
+::1 - - [31/May/2018:21:13:17 -0500] "GET /ComedorUniversitarioFINAL HTTP/1.1" 301 256
+::1 - - [31/May/2018:21:13:17 -0500] "GET /ComedorUniversitarioFINAL/ HTTP/1.1" 500 1357
+::1 - - [31/May/2018:21:17:27 -0500] "GET /ComedorUniversitarioFINAL/ HTTP/1.1" 500 1357
